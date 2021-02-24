@@ -1,1 +1,6 @@
-{"id":"packager.minty.default","name":"Minty","The official Minty repo!","icon":"icon.png"}
+{
+  "id": "packager.minty.default",
+  "name": "Minty",
+  "description": "The official Minty repo!",
+  "icon": "icon.png"
+}
