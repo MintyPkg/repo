@@ -2,5 +2,6 @@
   "id": "packager.minty.default",
   "name": "Minty",
   "description": "The official Minty repo!",
+  "feed":"feed.rss",
   "icon": "icon.png"
 }
