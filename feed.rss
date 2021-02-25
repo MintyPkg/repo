@@ -1,0 +1,17 @@
+<rss version="2.0">
+	<channel>
+		<title>Minty Updates</title>
+		<description>The RSS Feed for Updates to Minty</description>
+		<link>https://mintypkg.github.io</link>
+		<copyright>2021 The Minty Team</copyright>
+		<lastBuildDate>Tue, 25 Feb 2021 00:00:00 +0000 </lastBuildDate>
+		<pubDate>Tue, 25 Feb 2021 00:00:00 +0000</pubDate>
+		<ttl>1800</ttl>
+		<item>
+			<title>Welcome Beta Testers!</title>
+			<description>Welcome to the beta version of Minty, please report any bugs!</description>
+			<guid isPermaLink="false">9c1a1005-6ba7-4a9d-b9f5-f43c848675cd</guid>
+			<pubDate>Tue, 25 Feb 2021 00:00:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
