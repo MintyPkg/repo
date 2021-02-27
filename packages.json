@@ -3,10 +3,10 @@
     {
       "id": "minty.pkg",
       "version": 1,
-      "maintainer": "The Minty Team",
+      "maintainer": ["name":"The Minty Team","link:"https:\/\/github.com/orgs/MintyPkg/people"],
       "description": "The premium papercuts experience",
       "name": "Minty",
-      "author": "The Minty Team",
+      "author": ["name":"The Minty Team","link:"https:\/\/github.com/orgs/MintyPkg/people"],
       "arch": "ios14",
       "icon": "icon.png",
       "category": "utilities",
