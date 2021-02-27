@@ -24,6 +24,7 @@ body {
   text-align: center;
   min-height: 23rem;
   grid-template-rows: 4rem;
+  margin: 2em;
 }
 h1, h2, h3, h4, h5, h6, p {
   font-family: 'Roboto', sans-serif;
@@ -73,6 +74,10 @@ ul {
 .icon {
   width: 6em;
   height: 6em;
+  padding: 0.5em;
+}
+.circle {
+  border-radius: 50%;
 }
 .hvr-float {
   display: inline-block;
@@ -91,9 +96,13 @@ ul {
   -webkit-transform: translateY(-8px);
   transform: translateY(-8px);
 }
-@media (prefers-color-scheme dark) {
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #191919;
+  }
   .page-content {
-    color: #fff;
     background: #212121;
+    color: #fff;
   }
 }
